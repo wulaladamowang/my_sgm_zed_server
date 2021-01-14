@@ -1,0 +1,11152 @@
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 34毫秒
+disparity image: 8毫秒
+total: 58毫秒
+-------------
+get image: 6毫秒
+Process image: 5毫秒
+roi image: 31毫秒
+disparity image: 4毫秒
+total: 63毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 20毫秒
+disparity image: 5毫秒
+total: 42毫秒
+-------------
+get image: 6毫秒
+Process image: 4毫秒
+roi image: 21毫秒
+disparity image: 5毫秒
+total: 43毫秒
+-------------
+get image: 6毫秒
+Process image: 4毫秒
+roi image: 20毫秒
+disparity image: 5毫秒
+total: 43毫秒
+-------------
+get image: 6毫秒
+Process image: 4毫秒
+roi image: 34毫秒
+disparity image: 4毫秒
+total: 56毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 30毫秒
+disparity image: 4毫秒
+total: 52毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 20毫秒
+disparity image: 4毫秒
+total: 41毫秒
+-------------
+get image: 6毫秒
+Process image: 4毫秒
+roi image: 21毫秒
+disparity image: 4毫秒
+total: 43毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 25毫秒
+disparity image: 5毫秒
+total: 47毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 26毫秒
+disparity image: 5毫秒
+total: 47毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 26毫秒
+disparity image: 4毫秒
+total: 47毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 27毫秒
+disparity image: 5毫秒
+total: 49毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 27毫秒
+disparity image: 5毫秒
+total: 49毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 28毫秒
+disparity image: 5毫秒
+total: 49毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 28毫秒
+disparity image: 4毫秒
+total: 49毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 28毫秒
+disparity image: 4毫秒
+total: 49毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 27毫秒
+disparity image: 5毫秒
+total: 49毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 19毫秒
+disparity image: 5毫秒
+total: 41毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 28毫秒
+disparity image: 4毫秒
+total: 49毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 21毫秒
+disparity image: 5毫秒
+total: 43毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 24毫秒
+disparity image: 5毫秒
+total: 45毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 25毫秒
+disparity image: 5毫秒
+total: 47毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 26毫秒
+disparity image: 4毫秒
+total: 47毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 28毫秒
+disparity image: 5毫秒
+total: 50毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 28毫秒
+disparity image: 4毫秒
+total: 49毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 28毫秒
+disparity image: 4毫秒
+total: 49毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 40毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 6毫秒
+Process image: 4毫秒
+roi image: 25毫秒
+disparity image: 4毫秒
+total: 47毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 25毫秒
+disparity image: 5毫秒
+total: 47毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 25毫秒
+disparity image: 5毫秒
+total: 46毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 25毫秒
+disparity image: 5毫秒
+total: 47毫秒
+-------------
+get image: 6毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 26毫秒
+disparity image: 5毫秒
+total: 47毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 25毫秒
+disparity image: 4毫秒
+total: 46毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 25毫秒
+disparity image: 5毫秒
+total: 47毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 19毫秒
+disparity image: 5毫秒
+total: 43毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 26毫秒
+disparity image: 5毫秒
+total: 48毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 27毫秒
+disparity image: 4毫秒
+total: 48毫秒
+-------------
+get image: 6毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 41毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 25毫秒
+disparity image: 6毫秒
+total: 48毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 24毫秒
+disparity image: 5毫秒
+total: 46毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 39毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 25毫秒
+disparity image: 4毫秒
+total: 46毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 24毫秒
+disparity image: 5毫秒
+total: 46毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 38毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 25毫秒
+disparity image: 4毫秒
+total: 46毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 6毫秒
+total: 39毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 25毫秒
+disparity image: 6毫秒
+total: 48毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 24毫秒
+disparity image: 5毫秒
+total: 45毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 24毫秒
+disparity image: 5毫秒
+total: 46毫秒
+-------------
+get image: 5毫秒
+Process image: 5毫秒
+roi image: 26毫秒
+disparity image: 5毫秒
+total: 49毫秒
+-------------
+get image: 7毫秒
+Process image: 4毫秒
+roi image: 24毫秒
+disparity image: 5毫秒
+total: 48毫秒
+-------------
+get image: 6毫秒
+Process image: 4毫秒
+roi image: 26毫秒
+disparity image: 4毫秒
+total: 49毫秒
+-------------
+get image: 7毫秒
+Process image: 3毫秒
+roi image: 19毫秒
+disparity image: 6毫秒
+total: 43毫秒
+-------------
+get image: 6毫秒
+Process image: 4毫秒
+roi image: 19毫秒
+disparity image: 5毫秒
+total: 42毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 26毫秒
+disparity image: 4毫秒
+total: 48毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 27毫秒
+disparity image: 4毫秒
+total: 48毫秒
+-------------
+get image: 5毫秒
+Process image: 5毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 43毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 19毫秒
+disparity image: 5毫秒
+total: 42毫秒
+-------------
+get image: 6毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 6毫秒
+Process image: 4毫秒
+roi image: 27毫秒
+disparity image: 4毫秒
+total: 49毫秒
+-------------
+get image: 6毫秒
+Process image: 4毫秒
+roi image: 24毫秒
+disparity image: 4毫秒
+total: 47毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 23毫秒
+disparity image: 5毫秒
+total: 45毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 15毫秒
+disparity image: 6毫秒
+total: 38毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 5毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 6毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 19毫秒
+disparity image: 5毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 38毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 26毫秒
+disparity image: 4毫秒
+total: 45毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 6毫秒
+roi image: 25毫秒
+disparity image: 4毫秒
+total: 49毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 24毫秒
+disparity image: 4毫秒
+total: 43毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 23毫秒
+disparity image: 5毫秒
+total: 44毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 24毫秒
+disparity image: 5毫秒
+total: 45毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 21毫秒
+disparity image: 5毫秒
+total: 42毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 22毫秒
+disparity image: 4毫秒
+total: 41毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 23毫秒
+disparity image: 4毫秒
+total: 43毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 5毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 22毫秒
+disparity image: 4毫秒
+total: 42毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 24毫秒
+disparity image: 4毫秒
+total: 44毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 23毫秒
+disparity image: 5毫秒
+total: 43毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 5毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 23毫秒
+disparity image: 4毫秒
+total: 41毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 24毫秒
+disparity image: 4毫秒
+total: 44毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 24毫秒
+disparity image: 5毫秒
+total: 45毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 24毫秒
+disparity image: 4毫秒
+total: 44毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 22毫秒
+disparity image: 5毫秒
+total: 43毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 23毫秒
+disparity image: 5毫秒
+total: 43毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 23毫秒
+disparity image: 4毫秒
+total: 43毫秒
+-------------
+get image: 4毫秒
+Process image: 6毫秒
+roi image: 15毫秒
+disparity image: 5毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 23毫秒
+disparity image: 4毫秒
+total: 42毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 21毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 21毫秒
+disparity image: 4毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 20毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 22毫秒
+disparity image: 4毫秒
+total: 41毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 20毫秒
+disparity image: 4毫秒
+total: 40毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 21毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 20毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 19毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 39毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 21毫秒
+disparity image: 4毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 20毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 20毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 20毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 19毫秒
+disparity image: 5毫秒
+total: 39毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 5毫秒
+No aruco marker detected 
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 38毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 21毫秒
+disparity image: 4毫秒
+total: 40毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 36毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 2毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 19毫秒
+disparity image: 5毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 20毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 20毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 2毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 20毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 19毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 19毫秒
+disparity image: 6毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 20毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 20毫秒
+disparity image: 4毫秒
+total: 40毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 20毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 15毫秒
+disparity image: 5毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 5毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 20毫秒
+disparity image: 5毫秒
+total: 41毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 38毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 2毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 19毫秒
+disparity image: 5毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 19毫秒
+disparity image: 5毫秒
+total: 39毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 19毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 20毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 21毫秒
+disparity image: 5毫秒
+total: 41毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 21毫秒
+disparity image: 6毫秒
+total: 43毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 20毫秒
+disparity image: 5毫秒
+total: 41毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 21毫秒
+disparity image: 5毫秒
+total: 41毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 21毫秒
+disparity image: 4毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 38毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 0毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+roi image: 19毫秒
+disparity image: 5毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 20毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 21毫秒
+disparity image: 5毫秒
+total: 41毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 20毫秒
+disparity image: 4毫秒
+total: 40毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 20毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+roi image: 21毫秒
+disparity image: 5毫秒
+total: 42毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 21毫秒
+disparity image: 4毫秒
+total: 40毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 21毫秒
+disparity image: 4毫秒
+total: 41毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 21毫秒
+disparity image: 4毫秒
+total: 41毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 24毫秒
+disparity image: 4毫秒
+total: 42毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 23毫秒
+disparity image: 5毫秒
+total: 45毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 22毫秒
+disparity image: 4毫秒
+total: 42毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 22毫秒
+disparity image: 4毫秒
+total: 41毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 20毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 39毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 21毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 2毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 20毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 21毫秒
+disparity image: 4毫秒
+total: 40毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 21毫秒
+disparity image: 4毫秒
+total: 40毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 15毫秒
+disparity image: 5毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 6毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 3毫秒
+Process image: 6毫秒
+No aruco marker detected 
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 41毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 5毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 4毫秒
+total: 27毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 4毫秒
+total: 27毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 4毫秒
+total: 27毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 4毫秒
+total: 27毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 7毫秒
+disparity image: 5毫秒
+total: 28毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 4毫秒
+total: 27毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 4毫秒
+total: 27毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 4毫秒
+total: 27毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 4毫秒
+total: 27毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 4毫秒
+total: 27毫秒
+-------------
+get image: 2毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 7毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 7毫秒
+disparity image: 5毫秒
+total: 27毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 7毫秒
+disparity image: 5毫秒
+total: 27毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 7毫秒
+disparity image: 4毫秒
+total: 26毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 4毫秒
+total: 27毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 7毫秒
+disparity image: 5毫秒
+total: 28毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 7毫秒
+disparity image: 5毫秒
+total: 28毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 5毫秒
+total: 28毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 7毫秒
+disparity image: 5毫秒
+total: 27毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 4毫秒
+total: 27毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 4毫秒
+total: 27毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 5毫秒
+total: 36毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 5毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 6毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 21毫秒
+disparity image: 4毫秒
+total: 41毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 22毫秒
+disparity image: 4毫秒
+total: 42毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 20毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 21毫秒
+disparity image: 4毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 22毫秒
+disparity image: 4毫秒
+total: 41毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 24毫秒
+disparity image: 4毫秒
+total: 43毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 20毫秒
+disparity image: 5毫秒
+total: 42毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 23毫秒
+disparity image: 4毫秒
+total: 42毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 27毫秒
+disparity image: 4毫秒
+total: 47毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 27毫秒
+disparity image: 4毫秒
+total: 47毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 25毫秒
+disparity image: 5毫秒
+total: 46毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 26毫秒
+disparity image: 5毫秒
+total: 46毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 28毫秒
+disparity image: 4毫秒
+total: 47毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 24毫秒
+disparity image: 4毫秒
+total: 43毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 23毫秒
+disparity image: 5毫秒
+total: 43毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 15毫秒
+disparity image: 5毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 21毫秒
+disparity image: 5毫秒
+total: 41毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 23毫秒
+disparity image: 4毫秒
+total: 42毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 20毫秒
+disparity image: 5毫秒
+total: 41毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 23毫秒
+disparity image: 5毫秒
+total: 43毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 25毫秒
+disparity image: 4毫秒
+total: 45毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 26毫秒
+disparity image: 4毫秒
+total: 46毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 25毫秒
+disparity image: 4毫秒
+total: 45毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 28毫秒
+disparity image: 4毫秒
+total: 48毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 27毫秒
+disparity image: 5毫秒
+total: 48毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 27毫秒
+disparity image: 5毫秒
+total: 48毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 26毫秒
+disparity image: 5毫秒
+total: 48毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 25毫秒
+disparity image: 4毫秒
+total: 46毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 29毫秒
+disparity image: 4毫秒
+total: 49毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 27毫秒
+disparity image: 4毫秒
+total: 47毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 23毫秒
+disparity image: 5毫秒
+total: 44毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 27毫秒
+disparity image: 4毫秒
+total: 48毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 24毫秒
+disparity image: 4毫秒
+total: 45毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 25毫秒
+disparity image: 4毫秒
+total: 46毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 25毫秒
+disparity image: 5毫秒
+total: 46毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 27毫秒
+disparity image: 5毫秒
+total: 49毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 26毫秒
+disparity image: 5毫秒
+total: 48毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 29毫秒
+disparity image: 5毫秒
+total: 51毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 29毫秒
+disparity image: 4毫秒
+total: 50毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 38毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 27毫秒
+disparity image: 4毫秒
+total: 48毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 27毫秒
+disparity image: 5毫秒
+total: 49毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 23毫秒
+disparity image: 4毫秒
+total: 44毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 27毫秒
+disparity image: 4毫秒
+total: 48毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 37毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+roi image: 27毫秒
+disparity image: 4毫秒
+total: 48毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 28毫秒
+disparity image: 4毫秒
+total: 49毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 28毫秒
+disparity image: 5毫秒
+total: 50毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 38毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 24毫秒
+disparity image: 5毫秒
+total: 46毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 41毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 26毫秒
+disparity image: 4毫秒
+total: 48毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 39毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 4毫秒
+Process image: 6毫秒
+roi image: 26毫秒
+disparity image: 5毫秒
+total: 52毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 22毫秒
+disparity image: 5毫秒
+total: 44毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 25毫秒
+disparity image: 5毫秒
+total: 48毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 21毫秒
+disparity image: 5毫秒
+total: 43毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 41毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 23毫秒
+disparity image: 5毫秒
+total: 45毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 35毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 24毫秒
+disparity image: 5毫秒
+total: 46毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 5毫秒
+total: 37毫秒
+-------------
+get image: 2毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 20毫秒
+disparity image: 5毫秒
+total: 42毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 2毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 20毫秒
+disparity image: 5毫秒
+total: 42毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 19毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 2毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 20毫秒
+disparity image: 4毫秒
+total: 41毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 19毫秒
+disparity image: 5毫秒
+total: 41毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 21毫秒
+disparity image: 5毫秒
+total: 43毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 21毫秒
+disparity image: 4毫秒
+total: 42毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 19毫秒
+disparity image: 5毫秒
+total: 41毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 20毫秒
+disparity image: 4毫秒
+total: 42毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 20毫秒
+disparity image: 5毫秒
+total: 42毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 21毫秒
+disparity image: 4毫秒
+total: 42毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 22毫秒
+disparity image: 4毫秒
+total: 43毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 35毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 20毫秒
+disparity image: 5毫秒
+total: 43毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 20毫秒
+disparity image: 5毫秒
+total: 42毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 5毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 23毫秒
+disparity image: 5毫秒
+total: 45毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 23毫秒
+disparity image: 5毫秒
+total: 45毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 35毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 21毫秒
+disparity image: 4毫秒
+total: 42毫秒
+-------------
+get image: 4毫秒
+Process image: 6毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 42毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 20毫秒
+disparity image: 5毫秒
+total: 41毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 21毫秒
+disparity image: 4毫秒
+total: 43毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 21毫秒
+disparity image: 4毫秒
+total: 42毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 24毫秒
+disparity image: 5毫秒
+total: 46毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 23毫秒
+disparity image: 4毫秒
+total: 44毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 20毫秒
+disparity image: 5毫秒
+total: 42毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 19毫秒
+disparity image: 5毫秒
+total: 41毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 41毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 41毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 19毫秒
+disparity image: 5毫秒
+total: 41毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 19毫秒
+disparity image: 5毫秒
+total: 41毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 19毫秒
+disparity image: 5毫秒
+total: 41毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 19毫秒
+disparity image: 5毫秒
+total: 41毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 20毫秒
+disparity image: 4毫秒
+total: 40毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 19毫秒
+disparity image: 5毫秒
+total: 41毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 6毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 2毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 38毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 15毫秒
+disparity image: 5毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 2毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 5毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 2毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 21毫秒
+disparity image: 4毫秒
+total: 40毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 20毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 20毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 2毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 39毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 20毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 28毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 2毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 5毫秒
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 27毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 2毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 2毫秒
+Process image: 3毫秒
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 20毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 20毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 20毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 20毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 3毫秒
+Process image: 4毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 47毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 2毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 15毫秒
+disparity image: 5毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 2毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 2毫秒
+Process image: 3毫秒
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 15毫秒
+disparity image: 5毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 6毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 19毫秒
+disparity image: 5毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 2毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 2毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 0毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 5毫秒
+total: 28毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 7毫秒
+disparity image: 5毫秒
+total: 27毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 7毫秒
+disparity image: 5毫秒
+total: 27毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 4毫秒
+total: 27毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 7毫秒
+disparity image: 4毫秒
+total: 26毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 4毫秒
+total: 27毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 5毫秒
+total: 28毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 7毫秒
+disparity image: 4毫秒
+total: 27毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 7毫秒
+disparity image: 5毫秒
+total: 27毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 4毫秒
+total: 27毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 5毫秒
+total: 28毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 4毫秒
+total: 27毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 7毫秒
+disparity image: 4毫秒
+total: 26毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 7毫秒
+disparity image: 4毫秒
+total: 26毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 4毫秒
+total: 27毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 5毫秒
+total: 28毫秒
+-------------
+get image: 2毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 38毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 20毫秒
+disparity image: 4毫秒
+total: 41毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 15毫秒
+disparity image: 5毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 2毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 5毫秒
+total: 28毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 5毫秒
+total: 28毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 4毫秒
+total: 27毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 5毫秒
+total: 28毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 4毫秒
+total: 27毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 4毫秒
+total: 28毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 5毫秒
+total: 27毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 7毫秒
+disparity image: 4毫秒
+total: 26毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 7毫秒
+disparity image: 4毫秒
+total: 26毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 7毫秒
+disparity image: 4毫秒
+total: 26毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 4毫秒
+total: 27毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 4毫秒
+total: 27毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 8毫秒
+disparity image: 5毫秒
+total: 28毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 9毫秒
+disparity image: 5毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 21毫秒
+disparity image: 4毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 21毫秒
+disparity image: 4毫秒
+total: 40毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 19毫秒
+disparity image: 5毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 20毫秒
+disparity image: 4毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 22毫秒
+disparity image: 4毫秒
+total: 42毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 22毫秒
+disparity image: 4毫秒
+total: 42毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 22毫秒
+disparity image: 4毫秒
+total: 42毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 23毫秒
+disparity image: 4毫秒
+total: 42毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 23毫秒
+disparity image: 4毫秒
+total: 43毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 22毫秒
+disparity image: 4毫秒
+total: 41毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 22毫秒
+disparity image: 4毫秒
+total: 42毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 22毫秒
+disparity image: 4毫秒
+total: 41毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 19毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 30毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 5毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 5毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 1毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 20毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 20毫秒
+disparity image: 4毫秒
+total: 40毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 20毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 33毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 4毫秒
+total: 29毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 15毫秒
+disparity image: 6毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 11毫秒
+disparity image: 5毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 2毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 10毫秒
+disparity image: 5毫秒
+total: 30毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+No aruco marker detected 
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 12毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+No aruco marker detected 
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 32毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 21毫秒
+disparity image: 4毫秒
+total: 41毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 21毫秒
+disparity image: 4毫秒
+total: 40毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 4毫秒
+total: 31毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 13毫秒
+disparity image: 5毫秒
+total: 33毫秒
+-------------
+get image: 1毫秒
+Process image: 4毫秒
+roi image: 14毫秒
+disparity image: 5毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 4毫秒
+total: 34毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 15毫秒
+disparity image: 5毫秒
+total: 35毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 23毫秒
+disparity image: 5毫秒
+total: 43毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 25毫秒
+disparity image: 4毫秒
+total: 44毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 6毫秒
+roi image: 27毫秒
+disparity image: 5毫秒
+total: 54毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 24毫秒
+disparity image: 4毫秒
+total: 43毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 26毫秒
+disparity image: 4毫秒
+total: 45毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 4毫秒
+total: 35毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 25毫秒
+disparity image: 4毫秒
+total: 44毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 36毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 3毫秒
+roi image: 25毫秒
+disparity image: 4毫秒
+total: 43毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 25毫秒
+disparity image: 4毫秒
+total: 44毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 25毫秒
+disparity image: 4毫秒
+total: 45毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 26毫秒
+disparity image: 4毫秒
+total: 46毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 24毫秒
+disparity image: 4毫秒
+total: 44毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 25毫秒
+disparity image: 4毫秒
+total: 45毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 25毫秒
+disparity image: 4毫秒
+total: 44毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 38毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 25毫秒
+disparity image: 4毫秒
+total: 45毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 26毫秒
+disparity image: 5毫秒
+total: 47毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 25毫秒
+disparity image: 4毫秒
+total: 45毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 24毫秒
+disparity image: 5毫秒
+total: 45毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 25毫秒
+disparity image: 4毫秒
+total: 46毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 25毫秒
+disparity image: 4毫秒
+total: 45毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 24毫秒
+disparity image: 4毫秒
+total: 44毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 18毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 25毫秒
+disparity image: 5毫秒
+total: 47毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 24毫秒
+disparity image: 4毫秒
+total: 44毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 25毫秒
+disparity image: 5毫秒
+total: 46毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 24毫秒
+disparity image: 4毫秒
+total: 45毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 24毫秒
+disparity image: 4毫秒
+total: 45毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 24毫秒
+disparity image: 5毫秒
+total: 45毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 24毫秒
+disparity image: 4毫秒
+total: 45毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 26毫秒
+disparity image: 4毫秒
+total: 46毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 24毫秒
+disparity image: 5毫秒
+total: 45毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 18毫秒
+disparity image: 5毫秒
+total: 40毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 25毫秒
+disparity image: 4毫秒
+total: 49毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 25毫秒
+disparity image: 4毫秒
+total: 45毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 24毫秒
+disparity image: 5毫秒
+total: 45毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 25毫秒
+disparity image: 4毫秒
+total: 45毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 16毫秒
+disparity image: 5毫秒
+total: 38毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 25毫秒
+disparity image: 5毫秒
+total: 46毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 4毫秒
+Process image: 4毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 37毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 38毫秒
+-------------
+get image: 5毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 5毫秒
+total: 38毫秒
+-------------
+get image: 6毫秒
+Process image: 3毫秒
+roi image: 17毫秒
+disparity image: 4毫秒
+total: 39毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 25毫秒
+disparity image: 4毫秒
+total: 46毫秒
+-------------
+get image: 5毫秒
+Process image: 4毫秒
+roi image: 24毫秒
+disparity image: 4毫秒
+total: 45毫秒
+-------------
