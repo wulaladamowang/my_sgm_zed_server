@@ -17,5 +17,5 @@ struct device_buffer
 	void* data;
 };
 
-int get_disparity(cv::Mat& img_left, cv::Mat& img_right, cv::Mat& disparity, const int disp_size, const bool subpixel);
+int get_disparity(sgm::StereoSGM& sgm, const cv::Mat& img_left, const cv::Mat& img_right, cv::Mat& disparity, const int disp_size, const bool subpixel);
 #endif
