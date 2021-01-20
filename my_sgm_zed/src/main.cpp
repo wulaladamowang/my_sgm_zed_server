@@ -92,6 +92,8 @@ int main(int argc, char** argv){
     cv::Mat mask(img_size, CV_8U);// 检测到的roi, 用mask 标记出来
     cv::Mat mask_scale(siz_scale, CV_8U);// 对Mask进行缩放之后的大小
     std::vector<int> rect_roi;// 存储包围目标区域的最小正矩形的四个像素坐标，原图大小
+    rect_roi.reserve(4);
+    int i = 0;
 
     while(1){
         if (zed.grab(runtime_parameters) == sl::ERROR_CODE::SUCCESS) {
@@ -112,6 +114,7 @@ int main(int argc, char** argv){
         // 提取目标区域
             get_roi(std::ref(img_zed_left_remap), std::ref(mask), std::ref(has_roi), std::ref(rect_roi));
             cv::resize(mask, mask_scale, siz_scale, cv::INTER_LINEAR);
+            //get_roi(std::ref(img_zed_left_scale), std::ref(mask_scale), std::ref(has_roi), std::ref(rect_roi));
             ts3 = getCurrentTime();
             std::cout << "roi image: " << (ts3-ts2) << "毫秒" << std::endl;
 
@@ -131,6 +134,7 @@ int main(int argc, char** argv){
             cv::imshow("Init left image", img_zed_left_scale);
             cv::imshow("mask scale", disparity_mask);
             cv::imshow("disparity_8u", disparity_8u);
+
             ts6 = getCurrentTime();
         }
         const char key = cv::waitKey(1);

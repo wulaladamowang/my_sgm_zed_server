@@ -20,18 +20,34 @@ int relativeDis(cv::Vec4f line_para, std::vector<cv::Point2f> point) {
 };
 
 void get_roi(cv::Mat& image, cv::Mat& mask, bool& has_roi, std::vector<int>& rect_roi) {
-    
+    static std::vector<int > pre_rect_roi = {0, 0, 1, 1};// 初始化用于记录上次检测到目标的位置
     static cv::Size mask_size = image.size();
     static const cv::Ptr<cv::aruco::Dictionary> c_dictionary = cv::aruco::getPredefinedDictionary(
         cv::aruco::DICT_4X4_50);//DICT_6X6_1000
     static const double pi = acos(-1.0);
     static std::vector<std::vector<cv::Point2f>> marker_corners;
     static std::vector<int> marker_ids;
+    bool is_full = false;
     int min_x, min_y, max_x, max_y;
-    cv::aruco::detectMarkers(image, c_dictionary, marker_corners, marker_ids);
+
+    int pre_roi_min_x, pre_roi_min_y, pre_roi_max_x, pre_roi_max_y;   
+    pre_roi_min_x = (pre_rect_roi[0] - 150) < 0 ? 0 : (pre_rect_roi[0] - 150);
+    pre_roi_max_x = (pre_rect_roi[2] + 150) > image.cols-1 ? image.cols-1 : (pre_rect_roi[2] + 150);
+    pre_roi_min_y = (pre_rect_roi[1] - 150) < 0 ? 0 : (pre_rect_roi[1] - 150);
+    pre_roi_max_y = (pre_rect_roi[3] + 150) > image.rows-1 ? image.rows-1 : (pre_rect_roi[3] + 150);
+    
+    cv::Mat img_roi = image(cv::Rect(cv::Point(pre_roi_min_x, pre_roi_min_y), cv::Point(pre_roi_max_x, pre_roi_max_y)));
+    cv::aruco::detectMarkers(img_roi, c_dictionary, marker_corners, marker_ids);
     ///获得检测的面积最大的aruco marker序号,每个ID都有一个（若检测到）
     int marker_number = marker_ids.size();
-    if(0 != marker_number)
+    if (2 > marker_number)
+    {
+        std::cout << "full detect ------" << std::endl;
+        cv::aruco::detectMarkers(image, c_dictionary, marker_corners, marker_ids);
+        marker_number = marker_ids.size();
+        is_full = true;
+    }
+    if(0 < marker_number)
     {
         int buff_id[6] = {-1, -1, -1, -1, -1, -1};//若存在相应的aruco marker id, 则记录其序号
         double buff_id_length[6] = {0.0, 0, 0, 0, 0, 0};//若存在相应的aruco marker， 则记录其在当前时刻周长的最大值
@@ -130,8 +146,18 @@ void get_roi(cv::Mat& image, cv::Mat& mask, bool& has_roi, std::vector<int>& rec
         roi_p3.x = radial_coefficient*(marker_corners[buff_id[i]][3].x - marker_corners[buff_id[i]][0].x)+roi_p3.x;
         roi_p3.y = radial_coefficient*(marker_corners[buff_id[i]][3].y - marker_corners[buff_id[i]][0].y)+roi_p3.y;
 
+        roi_p0.x = roi_p0.x + (is_full ? 0 : pre_roi_min_x );
+        roi_p0.y = roi_p0.y + (is_full ? 0 : pre_roi_min_y );
+        roi_p1.x = roi_p1.x + (is_full ? 0 : pre_roi_min_x );
+        roi_p1.y = roi_p1.y + (is_full ? 0 : pre_roi_min_y );
+        roi_p2.x = roi_p2.x + (is_full ? 0 : pre_roi_min_x );
+        roi_p2.y = roi_p2.y + (is_full ? 0 : pre_roi_min_y );
+        roi_p3.x = roi_p3.x + (is_full ? 0 : pre_roi_min_x ); 
+        roi_p3.y = roi_p3.y + (is_full ? 0 : pre_roi_min_y );
+
         center_x = (roi_p0.x+roi_p1.x+roi_p2.x+roi_p3.x)/4;
         center_y = (roi_p0.y+roi_p1.y+roi_p2.y+roi_p3.y)/4;
+
 
 
         mask.setTo(0);
@@ -156,9 +182,18 @@ void get_roi(cv::Mat& image, cv::Mat& mask, bool& has_roi, std::vector<int>& rec
             if(roi_position[m].y>max_y)
                 max_y = roi_position[m].y>mask_size.height-1?mask_size.height-1:roi_position[m].y;
         };
+
+        rect_roi[0] = min_x;
+        rect_roi[1] = min_y;
+        rect_roi[2] = max_x;
+        rect_roi[3] = max_y;
+        pre_rect_roi = {min_x, min_y, max_x, max_y};
+
         std::vector<std::vector<cv::Point>> contours;
         contours.push_back(roi_position);
         cv::fillPoly(mask, contours, 1);
+        //cv::rectangle(mask, cv::Rect(cv::Point(min_x, min_y), cv::Point(max_x, max_y)), cv::Scalar(150), 3);
+        //cv::rectangle(mask, cv::Rect(cv::Point(pre_roi_min_x, pre_roi_min_y), cv::Point(pre_roi_max_x, pre_roi_max_y)), cv::Scalar(150), 3);
         has_roi = true;
     }else{
         mask.setTo(0);
